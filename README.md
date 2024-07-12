@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dennis Rapaccini</h1>
 <h3 align="center">A Electronic Engineering master's degree student at Università Politecnica delle Marche. 
-  
-  I'm also a member of the High Voltage division of Polimarche Racing Team, the university Formula Student team.</h3>
-
-- 🔭 I’m interested in **Telecommunications, Digital Signal Processing and firmware development.**
-
-- ⚡ Fun fact: **I love travelling, cooking and going to rock shows.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
